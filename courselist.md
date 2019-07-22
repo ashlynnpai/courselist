@@ -1,19 +1,19 @@
 ### List of online courses
 
-### Computer Science
+## Computer Science
 
 * Introduction to Computer Science and Programming Using Python, MITx 6.00.1x, edx (MIT), 2015*
 * Mining Massive Datasets, Coursera (Stanford University), 2015*
 * Automata, Coursera (Stanford University), 2015*
 
-### Data Science
+## Data Science
 
 * The Analytics Edge, MITx 15.071x, edx (MIT), 2015*
 * Data Analysis and Statistical Inference, Coursera (Duke University), 2015**
 * Python for Data Science, edx (UCSD), December 2017
 * Statistics and R, edx (Harvard University), May 2017
 
-### Mathematics
+## Mathematics
 
 * Calculus III, (Northern Virginia Community College), July 2019 (4 credits)
 * Mathematics for Machine Learning: Multivariate Calculus, Coursera (Imperial College London), July 2018*
@@ -22,7 +22,7 @@
 * Discrete Mathematics, (Northern Virginia Community College), May 2019 (3 credits)
 
 
-### Programming
+## Programming
 
 * An Introduction to Interactive Programming in Python, Coursera (Rice University), 2014**
 * Computer Science I (Java Programming), CSC 201 (Blue Ridge Community College), July 2018 (4 credits)
@@ -30,7 +30,7 @@
 * Databases (SQL, JSON), Stanford Online, 2015*
 * Managing Big Data with MySQL (Duke University), 2016
 
-### Technology
+## Technology
 
 * Network Security, edx (Rochester Institute of Technology), November 2017
 * Cybersecurity Fundamentals, edx (Rochester Institute of Technology), May 2017
@@ -38,13 +38,13 @@
 
 
 
-### Chemistry
+## Chemistry
 
 * Principles of Biochemistry, MCB63X, edx (Harvard University), October 2017
 * Medicinal Chemistry: The Molecular Basis of Drug Discovery, DavidsonX: D001x, edx (Davidson College), August 2018
 * Science & Cooking: From Haute Cuisine to Soft Matter Science, edx (Harvard University), June 2017
 
-### Life sciences
+## Life sciences
 
 * Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
 * Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
@@ -54,13 +54,13 @@
 * Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
 * Fundamental Neuroscience for Neuroimaging, Coursera (Johns Hopkins), January 2018 :heavy_check_mark:
 
-### Science Exams
+## Science Exams
 
 * CLEP Chemistry, January 2019
 * CLEP Biology, May 2019
 
 
-### Web Development
+## Web Development
 
 * Data Visualization, FreeCodeCamp, February 2018*
 * Front End Development, Free Code Camp, October 2017*
@@ -69,7 +69,7 @@
 * Front End Web Development, Team Treehouse, 2014
 * WordPress Development, Team Treehouse, 2014
 
-### More Courses
+## More Courses
 
 * Calculus with Analytic Geometry II, (Northern Virginia Community College), July 2018 (5 credits)
 * Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
