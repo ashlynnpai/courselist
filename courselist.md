@@ -47,7 +47,6 @@
 #### Life sciences
 
 * Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
-* Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
 * Medical Neuroscience, Coursera (Duke University), March 2016*
 * Introduction to Clinical Neurology, Coursera (UC San Francisco), November 2017 :heavy_check_mark:
 * Fundamentals of Neuroscience, MCB80.1x, MCB80.2x, edx (Harvard University), 2015*
