@@ -16,7 +16,7 @@
 #### Mathematics
 
 * Calculus III, (Northern Virginia Community College), July 2019 (4 credits)
-* Mathematics for Machine Learning: Multivariate Calculus, Coursera (Imperial College London), July 2018*
+* Mathematics for Machine Learning: Multivariate Calculus, Coursera (Imperial College London), July 2018 (vc)
 * Linear Algebra, (Northern Virginia Community College), May 2019 (3 credits)
 * Linear Algebra, Foundations to Frontiers, edx (UT Austin), May 2017
 * Discrete Mathematics, (Northern Virginia Community College), May 2019 (3 credits)
@@ -48,10 +48,10 @@
 
 * Finding Hidden Messages in DNA (Bioinformatics I), Coursera (UC San Diego), 2015*
 * Medical Neuroscience, Coursera (Duke University), March 2016*
-* Introduction to Clinical Neurology, Coursera (UC San Francisco), November 2017 :heavy_check_mark:
+* Introduction to Clinical Neurology, Coursera (UC San Francisco), November 2017 (vc)
 * Fundamentals of Neuroscience, MCB80.1x, MCB80.2x, edx (Harvard University), 2015*
 * Cellular Mechanisms of Brain Function, edx (École Polytechnique Fédérale de Lausanne -- Swiss Federal Institute of Technology), 2015*
-* Fundamental Neuroscience for Neuroimaging, Coursera (Johns Hopkins), January 2018 :heavy_check_mark:
+* Fundamental Neuroscience for Neuroimaging, Coursera (Johns Hopkins), January 2018 (vc)
 
 #### Science Exams
 
@@ -73,10 +73,10 @@
 * Calculus with Analytic Geometry II, (Northern Virginia Community College), July 2018 (5 credits)
 * Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
 * Calculus: Single Variable, Parts 1, 2, Coursera (University of Pennsylvania), October 2017
-* Introduction to Marketing, Coursera (Penn), January 2018 :heavy_check_mark:
+* Introduction to Marketing, Coursera (Penn), January 2018 (vc)
 * Learning to Write for the Web, Lynda 4/2015, Certificate No: 79CE4F9FC9B24B379C11448CB59BF5B2
-* Search Engine Optimization Fundamentals, Coursera (UC Davis), February 2018 :heavy_check_mark:
-* Introduction to Search Engine Optimization, Coursera (UC Davis), January 2018 :heavy_check_mark:
+* Search Engine Optimization Fundamentals, Coursera (UC Davis), February 2018 (vc)
+* Introduction to Search Engine Optimization, Coursera (UC Davis), January 2018 (vc)
 * SEO Foundations, Lynda, 4/2015, Certificate No: A6A5368E33B1467189ECBF1DDBBD2079
 * Intro to Computer Science, CS 101, Udacity, 2015
 * Artificial Intelligence Planning, Coursera (University of Edinburgh), 2015*
@@ -99,7 +99,7 @@
 * Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems, Coursera (Vanderbilt University), 2015*
 * Surveillance Law, Coursera (Stanford University), 2014*
 * Learning How to Learn: Powerful mental tools to help you master tough subjects, Coursera (UCSD), 2015
-* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 :heavy_check_mark:
+* Introduction to Chemistry: Reactions and Ratios, Coursera (Duke University), November 2017 (vc)
 * Network Analysis in Systems Biology, Coursera (Icahn School of Medicine, Mount Sinai), 2015**
 * Big Data Science with the BD2K-LINCS Data Coordination and Integration Center, Coursera (Icahn School of Medicine at Mount Sinai), 2015*
 * Sleep: Neurobiology, Medicine, and Society, Coursera (University of Michigan), 2015*
@@ -111,7 +111,7 @@ This is a list of courses where I completed enough requirements to get a passing
 
 () Number of credit hours
 
-:heavy_check_mark: Verified Certificate
+(vc) Verified Certificate
 
 *Free certificates (Statement of Accomplishment, Honor Code Certificate, or merit badge)
 
