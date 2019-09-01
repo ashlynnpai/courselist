@@ -2,6 +2,7 @@
 
 #### Computer Science
 
+* Machine Learning, Coursera (Stanford University), August 2019 (vc)
 * Introduction to Computer Science and Programming Using Python, MITx 6.00.1x, edx (MIT), 2015*
 * Mining Massive Datasets, Coursera (Stanford University), 2015*
 * Automata, Coursera (Stanford University), 2015*
