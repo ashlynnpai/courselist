@@ -16,6 +16,7 @@
 
 #### Mathematics
 
+* Differential Equations, (Northern Virginia Community College), December 2019 (3 credits)
 * Calculus III, (Northern Virginia Community College), July 2019 (4 credits)
 * Mathematics for Machine Learning: Multivariate Calculus, Coursera (Imperial College London), July 2018 (vc)
 * Linear Algebra, (Northern Virginia Community College), May 2019 (3 credits)
