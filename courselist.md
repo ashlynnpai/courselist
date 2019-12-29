@@ -72,6 +72,7 @@
 
 #### More Courses
 
+* Anatomy of the Chest, Abdomen, and Pelvis, Coursera (Yale), December 2019 (vc)
 * Calculus with Analytic Geometry II, (Northern Virginia Community College), July 2018 (5 credits)
 * Calculus 1A: Differentiation, MITx: 18.01.1x, edx (MIT), September 2017
 * Calculus: Single Variable, Parts 1, 2, Coursera (University of Pennsylvania), October 2017
